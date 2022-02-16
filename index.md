@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+<html>
+    <head>
+        <title> E27 </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css1.css">
+    </head>
+    <body dir="rtl" style="font-family: yekan bakh; background-color: pink;">
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های وب </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#1B5E20" style="color: #fff;" rowspan="4" colspan="2"> وضعیت دوره : تکمیل شده </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> آموزش مقدماتی Html </td>
+                <td> 4 </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+        <br><br><br>
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های وب </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#FBC02D" style="color: #000;" rowspan="4"> وضعیت دوره : درحال برگزاری </th>
+            </tr>
+            <tr style="background-color: pink;">
+                <td> 1 </td>
+                <td colspan="2"> آموزش مقدماتی Html </td>
+                <!--<td> 4 </td>-->
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+        <br><br><br>
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های وب </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#CCC"> وضعیت دوره : </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> آموزش مقدماتی Html </td>
+                <td> 4 </td>
+                <th style="color: #fff;" class="th12" rowspan="3"> وضعیت : تکمیل شده </th>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td> آموزش پیشرفته Html </td>
+                <td> 4 </td>
+                <th bgcolor="#FBC02D" style="color: #000;" rowspan="3"> وضعیت : درحال برگزاری  </th>
 
-You can use the [editor on GitHub](https://github.com/amirykz/html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirykz/html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            </tr>
+            <tr>
+                <td> 5 </td>
+                <td> آموزش پیشرفته Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 6 </td>
+                <td> آموزش PHP </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+    
+    </body>
+</html>
